@@ -10,8 +10,8 @@ FROM myoung34/github-runner:latest
 #########################################
 # Variables #
 #########################################
-ARG orgname="organization name"
-ARG reponame="repository name"
+ARG orgname="chocrates-test-org"
+ARG reponame="t3-actions-chocrates-pwalkr"
 
 #########################################
 # Label the instance and set maintainer #
